@@ -73,27 +73,27 @@ Tôi rất háo hức được chia sẻ và kết nối với bạn khi chúng 
         <tr>
             <td style="width: 50%; height: 50px; background-color: #FFFFFF; cursor: pointer; text-align: center; vertical-align: middle;">
                 <a href="https://github.com/Murphylabs2024/Nesa-miner" target="_blank" style="text-decoration: none;">
-                    <img src="./img/nesabtn.avif" alt="Logo 1" height="100" style="transform: scale(2)"/>
+                    <img src="./img/nesabtn.avif" alt="Logo 1" height="100" width="100" style="transform: scale(2)"/>
                 </a>
             </td>
             <td style="width: 50%; height: 50px; background-color: #1c1e39; cursor: pointer; text-align: center; vertical-align: middle;">
                 <a href="https://github.com/fat-murphy/t3rn-executor" target="_blank" style="text-decoration: none;">
-                    <img src="./img/t3rnbtn.png" alt="Logo 2" height="1000"/>
+                    <img src="./img/t3rnbtn.png" alt="Logo 2" height="100"
+                    width="100"/>
                 </a>
             </td>
         </tr>
         <tr>
             <td style="width: 50%; height: 50px; background-color: #000000; cursor: pointer; text-align: center; vertical-align: middle;">
                 <a href="https://github.com/fat-murphy/cysic-verifier" target="_blank" style="text-decoration: none;">
-                    <img src="./img/cysicbtn.png" alt="Logo 3" height="100"
-                    style="transform: scale(2)"/>
+                    <img src="./img/cysicbtn.png" alt="Logo 3" height="100" width="100" style="transform: scale(2)"/>
                     <a>VERIFIER</a>
                 </a>
             </td>
             <td style="width: 50%; height: 50px; background-color: #000000; cursor: pointer; text-align: center; vertical-align: middle;">
                 <a href="https://github.com/fat-murphy/cysic-prover" target="_blank" style="text-decoration: none;">
                     <img src="./img/cysicbtn.png" alt="Logo 3" height="100"
-                    style="transform: scale(2)"/>
+                    style="transform: scale(2)" width="100"/>
                     <a>PROVER</a>
                 </a>
             </td>
