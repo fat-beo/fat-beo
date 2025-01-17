@@ -20,32 +20,83 @@
     </a>
 </p>
 
-----
-# About me
 
-<p style="text-align: justify;">
-    Hello! My name is Fat, and I specialize in the fields of validator, DevOps, and systems. I have a deep passion for blockchain technology and enjoy sharing my knowledge and experiences with the community. This account was created to document my personal development journey and to share the valuable insights I’ve gained along the way.
-</p> 
-<p style="text-align: justify;">
-    I have contributed to numerous blockchain projects, particularly by providing verification evidence (proofs) for projects within the Cosmos ecosystem. My efforts are dedicated to building and maintaining transparency and security for the blockchain systems I work with.
-</p>
-<p style="text-align: justify;">
-    Additionally, I place great emphasis on sharing knowledge and guiding projects within the Vietnamese community, helping to grow and support the local blockchain ecosystem.
-</p>
-<p style="text-align: justify;">
-    I’m excited to share and connect with you as we explore the world of blockchain technology together!
-</p>
+# Fat ?
+```
+Hello! My name is Fat, and I intern in the fields of validator, DevOps, and systems. I have a deep passion for blockchain technology and enjoy sharing my knowledge and experiences with the community. This account was created to document my personal development journey and to share the valuable insights I’ve gained along the way.
 
----
-<p style="text-align: justify;">
-    Xin chào! Tôi là Fat, và tôi chuyên môn trong các lĩnh vực validator, DevOps và hệ thống. Tôi có niềm đam mê sâu sắc với công nghệ blockchain và thích chia sẻ kiến thức cũng như kinh nghiệm của mình với cộng đồng. Tài khoản này được tạo ra để ghi lại hành trình phát triển cá nhân của tôi và chia sẻ những thông tin giá trị mà tôi đã tích lũy được trong quá trình này.
-</p>
-<p style="text-align: justify;">
-    Tôi đã đóng góp cho nhiều dự án blockchain, đặc biệt là cung cấp các bằng chứng xác minh (proofs) cho các dự án trong hệ sinh thái Cosmos. Những nỗ lực của tôi nhằm xây dựng và duy trì tính minh bạch và an toàn cho các hệ thống blockchain mà tôi tham gia.
-</p>
-<p style="text-align: justify;">
-    Bên cạnh đó, tôi đặc biệt chú trọng đến việc chia sẻ kiến thức và hướng dẫn các dự án trong cộng đồng Việt Nam, giúp phát triển và hỗ trợ hệ sinh thái blockchain địa phương.
-</p>
-<p style="text-align: justify;">
-    Tôi rất háo hức được chia sẻ và kết nối với bạn khi chúng ta cùng khám phá thế giới công nghệ blockchain!
-</p>
+I have contributed to numerous blockchain projects, particularly by providing verification evidence (proofs) for projects within the Cosmos ecosystem. My efforts are dedicated to building and maintaining transparency and security for the blockchain systems I work with.
+
+Additionally, I place great emphasis on sharing knowledge and guiding projects within the Vietnamese community, helping to grow and support the local blockchain ecosystem.
+
+I’m excited to share and connect with you as we explore the world of blockchain technology together!
+```
+
+```
+Xin chào! Tôi là Fat, và tôi chuyên môn trong các lĩnh vực validator, DevOps và hệ thống. Tôi có niềm đam mê sâu sắc với công nghệ blockchain và thích chia sẻ kiến thức cũng như kinh nghiệm của mình với cộng đồng. Tài khoản này được tạo ra để ghi lại hành trình phát triển cá nhân của tôi và chia sẻ những thông tin giá trị mà tôi đã tích lũy được trong quá trình này.
+
+Tôi đã đóng góp cho nhiều dự án blockchain, đặc biệt là cung cấp các bằng chứng xác minh (proofs) cho các dự án trong hệ sinh thái Cosmos. Những nỗ lực của tôi nhằm xây dựng và duy trì tính minh bạch và an toàn cho các hệ thống blockchain mà tôi tham gia.
+
+Bên cạnh đó, tôi đặc biệt chú trọng đến việc chia sẻ kiến thức và hướng dẫn các dự án trong cộng đồng Việt Nam, giúp phát triển và hỗ trợ hệ sinh thái blockchain địa phương.
+
+Tôi rất háo hức được chia sẻ và kết nối với bạn khi chúng ta cùng khám phá thế giới công nghệ blockchain!
+```
+
+<br>
+
+# My collections
+**Mainnet**
+
+<div>
+    <a style="margin: 3px; " href="https://pactus.org/" target="_blank" rel="noreferrer"> <img src="./img/pactus.png" alt="bash" width="40" height="40"/> </a><a>   </a>
+</div>
+
+<br>
+
+**Testnet**
+<div>
+    <a style="margin: 3px;" href="https://0g.ai/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/0_g_labs1711467106027.png" alt="bash" width="40" height="40"/> </a><a>   </a>
+    <a style="margin: 3px;" href="https://side.one/" target="_blank" rel="noreferrer"> <img src="https://img.cryptorank.io/coins/side_protocol1732627863083.png" alt="bash" width="40" height="40"/> </a><a>   </a>
+    <a style="margin: 3px; border: 3px  border-radius: 50%;" href="https://nesa.ai/" target="_blank" rel="noreferrer">
+    <img src="./img/nesa.jpeg" alt="Nesa AI" width="40" height="10%" style="border-radius: 50%;"/>
+    <a style="margin: 3px;" href="https://www.t3rn.io/" target="_blank" rel="noreferrer"> <img src="./img/t3rn.png" alt="bash" width="40" height="40"/> </a><a>   </a>
+    <a style="margin: 3px;" href="https://cysic.xyz/" target="_blank" rel="noreferrer"> <img src="./img/cysic.png" alt="bash" width="40" height="40"/> </a><a>   </a>
+</a>
+
+</div>
+
+<br>
+
+# My Guides
+<div>
+    <table style="width: 100%;">
+        <tr>
+            <td style="width: 50%; height: 50px; background-color: #FFFFFF; cursor: pointer; text-align: center; vertical-align: middle;">
+                <a href="https://github.com/Murphylabs2024/Nesa-miner" target="_blank" style="text-decoration: none;">
+                    <img src="./img/nesabtn.avif" alt="Logo 1" height="100" style="transform: scale(2)"/>
+                </a>
+            </td>
+            <td style="width: 50%; height: 50px; background-color: #1c1e39; cursor: pointer; text-align: center; vertical-align: middle;">
+                <a href="https://github.com/fat-murphy/t3rn-executor" target="_blank" style="text-decoration: none;">
+                    <img src="./img/t3rnbtn.png" alt="Logo 2" height="1000"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 50%; height: 50px; background-color: #000000; cursor: pointer; text-align: center; vertical-align: middle;">
+                <a href="https://github.com/fat-murphy/cysic-verifier" target="_blank" style="text-decoration: none;">
+                    <img src="./img/cysicbtn.png" alt="Logo 3" height="100"
+                    style="transform: scale(2)"/>
+                    <a>VERIFIER</a>
+                </a>
+            </td>
+            <td style="width: 50%; height: 50px; background-color: #000000; cursor: pointer; text-align: center; vertical-align: middle;">
+                <a href="https://github.com/fat-murphy/cysic-prover" target="_blank" style="text-decoration: none;">
+                    <img src="./img/cysicbtn.png" alt="Logo 3" height="100"
+                    style="transform: scale(2)"/>
+                    <a>PROVER</a>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
