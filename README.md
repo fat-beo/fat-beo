@@ -22,15 +22,18 @@
 
 
 # Fat ?
-```
-Hello! My name is Fat, and I intern in the fields of validator, DevOps, and systems. I have a deep passion for blockchain technology and enjoy sharing my knowledge and experiences with the community. This account was created to document my personal development journey and to share the valuable insights I’ve gained along the way.
-
-I have contributed to numerous blockchain projects, particularly by providing verification evidence (proofs) for projects within the Cosmos ecosystem. My efforts are dedicated to building and maintaining transparency and security for the blockchain systems I work with.
-
-Additionally, I place great emphasis on sharing knowledge and guiding projects within the Vietnamese community, helping to grow and support the local blockchain ecosystem.
-
-I’m excited to share and connect with you as we explore the world of blockchain technology together!
-```
+<p style="text-align: justify;">
+    Hello! My name is Fat, and I specialize in the fields of validator, DevOps, and systems. I have a deep passion for blockchain technology and enjoy sharing my knowledge and experiences with the community. This account was created to document my personal development journey and to share the valuable insights I’ve gained along the way.
+</p> 
+<p style="text-align: justify;">
+    I have contributed to numerous blockchain projects, particularly by providing verification evidence (proofs) for projects within the Cosmos ecosystem. My efforts are dedicated to building and maintaining transparency and security for the blockchain systems I work with.
+</p>
+<p style="text-align: justify;">
+    Additionally, I place great emphasis on sharing knowledge and guiding projects within the Vietnamese community, helping to grow and support the local blockchain ecosystem.
+</p>
+<p style="text-align: justify;">
+    I’m excited to share and connect with you as we explore the world of blockchain technology together!
+</p>
 
 ```
 Xin chào! Tôi là Fat, và tôi chuyên môn trong các lĩnh vực validator, DevOps và hệ thống. Tôi có niềm đam mê sâu sắc với công nghệ blockchain và thích chia sẻ kiến thức cũng như kinh nghiệm của mình với cộng đồng. Tài khoản này được tạo ra để ghi lại hành trình phát triển cá nhân của tôi và chia sẻ những thông tin giá trị mà tôi đã tích lũy được trong quá trình này.
