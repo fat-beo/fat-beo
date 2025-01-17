@@ -35,21 +35,15 @@
     I’m excited to share and connect with you as we explore the world of blockchain technology together!
 </p>
 
-----
+```
+Xin chào! Tôi là Fat, và tôi chuyên môn trong các lĩnh vực validator, DevOps và hệ thống. Tôi có niềm đam mê sâu sắc với công nghệ blockchain và thích chia sẻ kiến thức cũng như kinh nghiệm của mình với cộng đồng. Tài khoản này được tạo ra để ghi lại hành trình phát triển cá nhân của tôi và chia sẻ những thông tin giá trị mà tôi đã tích lũy được trong quá trình này.
 
-<p style="text-align: justify;">
-    Xin chào! Tôi là Fat, và tôi chuyên môn trong các lĩnh vực validator, DevOps và hệ thống. Tôi có niềm đam mê sâu sắc với công nghệ blockchain và thích chia sẻ kiến thức cũng như kinh nghiệm của mình với cộng đồng. Tài khoản này được tạo ra để ghi lại hành trình phát triển cá nhân của tôi và chia sẻ những thông tin giá trị mà tôi đã tích lũy được trong quá trình này.
-</p>
-<p style="text-align: justify;">
-    Tôi đã đóng góp cho nhiều dự án blockchain, đặc biệt là cung cấp các bằng chứng xác minh (proofs) cho các dự án trong hệ sinh thái Cosmos. Những nỗ lực của tôi nhằm xây dựng và duy trì tính minh bạch và an toàn cho các hệ thống blockchain mà tôi tham gia.
-</p>
-<p style="text-align: justify;">
-    Bên cạnh đó, tôi đặc biệt chú trọng đến việc chia sẻ kiến thức và hướng dẫn các dự án trong cộng đồng Việt Nam, giúp phát triển và hỗ trợ hệ sinh thái blockchain địa phương.
-</p>
-<p style="text-align: justify;">
-    Tôi rất háo hức được chia sẻ và kết nối với bạn khi chúng ta cùng khám phá thế giới công nghệ blockchain!
-</p>
+Tôi đã đóng góp cho nhiều dự án blockchain, đặc biệt là cung cấp các bằng chứng xác minh (proofs) cho các dự án trong hệ sinh thái Cosmos. Những nỗ lực của tôi nhằm xây dựng và duy trì tính minh bạch và an toàn cho các hệ thống blockchain mà tôi tham gia.
 
+Bên cạnh đó, tôi đặc biệt chú trọng đến việc chia sẻ kiến thức và hướng dẫn các dự án trong cộng đồng Việt Nam, giúp phát triển và hỗ trợ hệ sinh thái blockchain địa phương.
+
+Tôi rất háo hức được chia sẻ và kết nối với bạn khi chúng ta cùng khám phá thế giới công nghệ blockchain!
+```
 
 <br>
 
