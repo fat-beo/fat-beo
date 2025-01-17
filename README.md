@@ -69,27 +69,27 @@ Tôi rất háo hức được chia sẻ và kết nối với bạn khi chúng 
 
 # My Guides
 <div>
-    <table style="width: 100%; border-spacing: 2px;">
+    <table style="width: 800px;">
         <tr>
-            <td style="width: 50%; height: 50px; background-image: url('./img/white.png'); background-size: cover; cursor: pointer; text-align: center; vertical-align: middle;">
+            <td style="width: 400px; height: 50px; background-image: url('./img/white.png'); background-size: cover; cursor: pointer; text-align: center; vertical-align: middle;">
                 <a href="https://github.com/Murphylabs2024/Nesa-miner" target="_blank" style="text-decoration: none;">
                     <img src="./img/nesabtn.avif" alt="Logo 1" height="100" width="100" />
                 </a>
             </td>
-            <td style="width: 50%; height: 50px; background-image: url('./img/pup.png'); background-size: cover; cursor: pointer; text-align: center; vertical-align: middle;">
+            <td style="width: 400px; height: 50px; background-image: url('./img/pup.png'); background-size: cover; cursor: pointer; text-align: center; vertical-align: middle;">
                 <a href="https://github.com/fat-murphy/t3rn-executor" target="_blank" style="text-decoration: none;">
                     <img src="./img/t3rnbtn.png" alt="Logo 2" height="40" width="100" />
                 </a>
             </td>
         </tr>
         <tr>
-            <td style="width: 50%; height: 50px; background-image: url('./img/black.png'); background-size: cover; cursor: pointer; text-align: center; vertical-align: middle;">
+            <td style="width: 400px; height: 50px; background-image: url('./img/black.png'); background-size: cover; cursor: pointer; text-align: center; vertical-align: middle;">
                 <a href="https://github.com/fat-murphy/cysic-verifier" target="_blank" style="text-decoration: none;">
                     <img src="./img/cysicbtn.png" alt="Logo 3" height="100" width="100" />
                     VERIFIER
                 </a>
             </td>
-            <td style="width: 50%; height: 50px; background-image: url('./img/black.png'); background-size: cover; cursor: pointer; text-align: center; vertical-align: middle;">
+            <td style="width: 400px; height: 50px; background-image: url('./img/black.png'); background-size: cover; cursor: pointer; text-align: center; vertical-align: middle;">
                 <a href="https://github.com/fat-murphy/cysic-prover" target="_blank" style="text-decoration: none;">
                     <img src="./img/cysicbtn.png" alt="Logo 3" height="100" width="100" />
                     PROVER
