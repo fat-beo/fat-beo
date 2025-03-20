@@ -10,7 +10,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/Murphy-node?style=for-the-badge&color=%23131540">
     </a>
     <a href="https://x.com/gnoud_ur1" target="_blank" rel="noopener noreferrer">
-        <img alt="Static Badge" src="https://img.shields.io/badge/FatBeo?style=for-the-badge&logo=x&color=%23000000">
+        <img alt="Static Badge" src="https://img.shields.io/badge/FatBeo-node?style=for-the-badge&logo=x&color=%23000000">
     </a>
     <a href="https://t.me/urifallon" target="_blank" rel="noopener noreferrer">
         <img alt="Static Badge" src="https://img.shields.io/badge/urifallon-node?style=for-the-badge&logo=telegram&color=%23ffffff">
