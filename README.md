@@ -1,5 +1,5 @@
 <!-- Display a banner -->
-![banner](./img/LOGO_RECTANGLE_BLACK.png)
+![banner](./img/fatbeo_murphy.png)
 
 <!-- Center-align the clickable badge -->
 <p align="center"> 
