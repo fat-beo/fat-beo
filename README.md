@@ -1,5 +1,4 @@
-<!-- Display a banner -->
-![banner](./img/fatbeo_murphy.png)
+
 
 <!-- Center-align the clickable badge -->
 <p align="center"> 
